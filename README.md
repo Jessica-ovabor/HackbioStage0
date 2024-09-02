@@ -1,5 +1,8 @@
 # Immune Checkpoints in Cancer
 
+# Author
+@Jessica.solving.Cancer
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Case Study- T Cells](#case-study--t-cells)
